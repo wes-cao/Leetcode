@@ -1,2 +1,2 @@
 # Leetcode
- Here to code games.
+ Here to start codes.
